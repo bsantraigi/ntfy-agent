@@ -14,8 +14,8 @@ A comprehensive monitoring tool for ML training/inference jobs on headless cloud
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/ml-process-monitor.git
-cd ml-process-monitor
+git clone https://github.com/bsantraigi/ntfy-agent.git
+cd ntfy-agent
 ```
 
 2. Run the installation script (requires root privileges):
